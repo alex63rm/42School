@@ -263,6 +263,8 @@ Hello this is 1 variadric function
   - https://hardfloat.es/blog/2021/11/05/funciones-variadicas.html
   - https://es.acervolima.com/funciones-variadicas-en-c/
   - https://en.wikipedia.org/wiki/Variadic_function#In_C
+  - https://www.youtube.com/watch?v=e5_rgCNhJTM
+  - https://www.youtube.com/watch?v=gpk5hjUhdrY
 
 ## Repositorios útiles de otros estudiantes
   - https://github.com/madebypixel02/ft_printf
